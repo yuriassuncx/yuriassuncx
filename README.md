@@ -39,7 +39,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.instagram.com/yuri_.designers/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-yuri_.designers-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
