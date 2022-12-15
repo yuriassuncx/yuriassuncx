@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React.JS, Node.JS**
 
-- ⚡ Fun fact **hard to tire 😜**
+- ⚡ Fun fact **The Wizard 😜**
 
 <br><br><br><br>
 
