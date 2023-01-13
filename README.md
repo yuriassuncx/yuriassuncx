@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=06b6d4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Yuri+Assunção;I'm+18+years+old;I'm+from+Brazil;I+Graduated+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yuriassuncx&show_icons=true&count_private=true&hide_border=true&title_color=06b6d4&icon_color=06b6d4&text_color=c9d1d9&bg_color=0d1117" alt="Yuri's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriassuncx&layout=compact&hide_border=true&title_color=06b6d4&text_color=06b6d4&bg_color=0d1117" />
-</div>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yuriassuncx&bg_color=0d111&color=06b6d4&line=5cecff&point=7996ec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
@@ -29,7 +24,7 @@
 
 - 🔭 All of my projects are available at [Github](https://github.com/yuriassuncx)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React.JS, Node.JS**
+- 💬 Ask me about **JavaScript, React.JS, Next.JS, Node.JS, Typescript, NestJS, Prisma**
 
 - ⚡ Fun fact **The Wizard 😜**
 
@@ -43,6 +38,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![NestJS](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=nestjs)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
