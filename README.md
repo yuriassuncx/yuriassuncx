@@ -44,3 +44,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=120&section=footer"/>
+
+![snake gif](https://github.com/yuriassuncx/yuriassuncx/blob/output/github-contribution-grid-snake.svg)
