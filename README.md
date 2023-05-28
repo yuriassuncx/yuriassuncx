@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=aa35ef&height=120&section=header"/>
-
 <h1>Hello!</h1>
 
 <a href = "yurirows2015@outlook.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -31,7 +29,5 @@
 #### <kbd>Ferramentas:</kbd><br>
 <img height="26" title="Github" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> &nbsp;
 <img height="26" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=aa35ef&height=120&section=footer"/>
 
 ![snake gif](https://github.com/yuriassuncx/yuriassuncx/blob/output/github-contribution-grid-snake.svg)
