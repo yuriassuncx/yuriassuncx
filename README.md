@@ -30,7 +30,7 @@
 <img height="26" title="Github" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> &nbsp;
 <img height="26" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-<div align="center">
+<div>
   <div style="display: flex; align-items: flex-start;">
     <img style="vertical-align: top;" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriassuncx&show_icons=true&locale=en&layout=compact&theme=react" alt="Yuri Assunção Top Languagens" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriassuncx&theme=react" alt="Yuri Assunção Streak Stats" />
