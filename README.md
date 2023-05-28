@@ -38,3 +38,10 @@
 </div>
 
 ![snake gif](https://github.com/yuriassuncx/yuriassuncx/blob/output/github-contribution-grid-snake.svg)
+
+<h1>Certificados:</h1>
+
+<div align="center" style="display: flex; align-items: flex-start;">
+  <img width="500px" src="https://github.com/yuriassuncx/nlw-spacetime/assets/104099580/d7de7651-20fb-48f8-998a-ec70ed41ee88" />
+  <img width="500px" src="https://github.com/yuriassuncx/nlw-spacetime/assets/104099580/b38c9055-818d-460a-9aae-28bcff56667c" />
+</div>
