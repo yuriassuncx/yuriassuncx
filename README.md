@@ -2,6 +2,7 @@
 
 <a href = "killerkoll2012@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/yuri-assuncx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://www.youtube.com/@yuriassuncao2239" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 
 <img align="right" alt="Code image" src="https://uploaddeimagens.com.br/images/003/073/061/full/computer-illustration.png?1612731879" width="300px"/>
 
