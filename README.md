@@ -27,6 +27,7 @@
 <img height="26" title="React / React Native" alt="React / React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
 <img height="26" title="Tailwind CSS" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"> &nbsp;
 <img height="26" title="Expo" alt="Expo" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png"> &nbsp;
+<img height="26" title="Deno" alt="Deno" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg"> &nbsp;
 
 #### <kbd>Ferramentas:</kbd><br>
 <img height="26" title="Github" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> &nbsp;
