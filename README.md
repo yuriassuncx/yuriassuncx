@@ -15,7 +15,7 @@
 <img height="26" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
 <img height="26" title="Typescript" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;
 <img height="26" title="Express" alt="Express" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdzone.com%2Fstorage%2Ftemp%2F8229324-expressjs-logo.png&f=1&nofb=1"> &nbsp;
-<img height="26" title="NestJS" alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"> &nbsp;
+<img height="26" title="NestJS" alt="NestJS" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original.svg"> &nbsp;
 <img height="26" title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 <img height="26" title="Postgres" alt="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> &nbsp;
 <img height="26" title="SQL Server" alt="SQL Server" src="https://img.icons8.com/color/480/microsoft-sql-server.png"> &nbsp;
@@ -25,8 +25,7 @@
 <img height="26" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
 <img height="26" title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 <img height="26" title="React / React Native" alt="React / React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
-<img height="26" title="Tailwind CSS" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"> &nbsp;
-<img height="26" title="Expo" alt="Expo" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png"> &nbsp;
+<img height="26" title="Tailwind CSS" alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg"> &nbsp;
 <img height="26" title="Deno" alt="Deno" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg"> &nbsp;
 
 #### <kbd>Ferramentas:</kbd><br>
