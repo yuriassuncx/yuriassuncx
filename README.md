@@ -8,7 +8,7 @@
 
 ## My name is Yuri Assunção
 - Software Developer at Allfa
-- Analysis and Systems Development Student
+- Graduated in Systems Analysis and Development
 - Passionate about technology and technological transformation ✨
 
 #### <kbd>Back-end:</kbd><br>
