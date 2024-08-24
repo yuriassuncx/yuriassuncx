@@ -1,8 +1,8 @@
 <h1>Hello!</h1>
 
-<a href="killerkoll2012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/yuri-assuncx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a href="https://www.youtube.com/@yuriassuncao2239" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="killerkoll2012@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/yuri-assuncx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>
+<a href="https://www.youtube.com/@yuriassuncao2239" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a>
 
 <img align="right" alt="Code image" src="https://uploaddeimagens.com.br/images/003/073/061/full/computer-illustration.png?1612731879" width="300px"/>
 
@@ -32,8 +32,4 @@
 <img height="26" title="Github" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> &nbsp;
 <img height="26" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-<div>
-  <div style="display: flex; align-items: flex-start;">
-    <img style="vertical-align: top;" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriassuncx&show_icons=true&locale=en&layout=compact&theme=react" alt="Yuri Assunção Top Languagens" />
-  </div>
-</div>
+<img style="vertical-align: top;" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriassuncx&show_icons=true&locale=en&layout=compact&theme=react" alt="Yuri Assunção Top Languagens" />
