@@ -7,7 +7,7 @@
 <img align="right" alt="Code image" src="https://uploaddeimagens.com.br/images/003/073/061/full/computer-illustration.png?1612731879" width="300px"/>
 
 ## My name is Yuri Assunção
-- Software Developer at Allfa
+- Software Developer at Zeedog
 - Graduated in Systems Analysis and Development
 - Passionate about technology and technological transformation ✨
 
