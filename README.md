@@ -4,8 +4,6 @@
 <a href="https://www.linkedin.com/in/yuri-assuncx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>
 <a href="https://www.youtube.com/@yuriassuncao2239" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a>
 
-<img align="right" alt="Code image" src="https://uploaddeimagens.com.br/images/003/073/061/full/computer-illustration.png?1612731879" width="300px"/>
-
 ## My name is Yuri Assunção
 - Software Developer at Zeedog
 - Graduated in Systems Analysis and Development
