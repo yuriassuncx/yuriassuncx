@@ -1,8 +1,10 @@
-<h1>Hello!</h1>
+<h1>Hi, Devs!</h1>
 
 <a href="killerkoll2012@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/yuri-assuncx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>
 <a href="https://www.youtube.com/@yuriassuncao2239" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a>
+
+![giphy](https://github.com/user-attachments/assets/6580ebdd-c747-4af3-b9e3-c9229a256e21)
 
 ## My name is Yuri Assunção
 - Software Developer at Zeedog
