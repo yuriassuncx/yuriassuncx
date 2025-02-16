@@ -1,15 +1,14 @@
 ## Hi, Devs! My name is Yuri.
-- Software Developer at Zeedog
+- Software Developer at Zeedog 
 - Graduated in Systems Analysis and Development
-- Passionate about technology and technological transformation ✨
 
 <p>
-  <img src="https://github.com/user-attachments/assets/6580ebdd-c747-4af3-b9e3-c9229a256e21" alt="giphy" width="400"/>
+  <img src="https://github.com/user-attachments/assets/6580ebdd-c747-4af3-b9e3-c9229a256e21" alt="giphy" width="100%" height="400px" />
 </p>
 
 ## 🚀 Tech Stack  
 
-### 🛠️ Back-End  
+#### 🛠️ Back-End  
 <p align="left">
   <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS"/>  
   <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript"/>  
@@ -20,7 +19,7 @@
   <img height="26" src="https://img.icons8.com/color/480/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/>  
 </p>
 
-### 🎨 Front-End  
+#### 🎨 Front-End  
 <p align="left">
   <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/>  
   <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>  
