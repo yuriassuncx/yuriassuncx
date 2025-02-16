@@ -1,15 +1,11 @@
-<h1>Hi, Devs!</h1>
-
-<a href="killerkoll2012@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/yuri-assuncx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>
-<a href="https://www.youtube.com/@yuriassuncao2239" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a>
-
-![giphy](https://github.com/user-attachments/assets/6580ebdd-c747-4af3-b9e3-c9229a256e21)
-
-## My name is Yuri Assunção
+## Hi, Devs! My name is Yuri.
 - Software Developer at Zeedog
 - Graduated in Systems Analysis and Development
 - Passionate about technology and technological transformation ✨
+
+![giphy](https://github.com/user-attachments/assets/6580ebdd-c747-4af3-b9e3-c9229a256e21)
+
+## Programming Languages
 
 #### <kbd>Back-end:</kbd><br>
 <img height="26" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
@@ -33,3 +29,9 @@
 <img height="26" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 <img style="vertical-align: top;" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriassuncx&show_icons=true&locale=en&layout=compact&theme=react" alt="Yuri Assunção Top Languagens" />
+
+## Social Links
+
+<a href="killerkoll2012@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/yuri-assuncx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>
+<a href="https://www.youtube.com/@yuriassuncao2239" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a>
