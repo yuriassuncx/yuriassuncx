@@ -1,10 +1,16 @@
-## Hi, Devs! My name is Yuri.
-- Software Developer at Zeedog 
-- Graduated in Systems Analysis and Development
+<h1>Hi, Devs! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="40" /> My name is Yuri.</h1>
 
-<p>
-  <img src="https://github.com/user-attachments/assets/6580ebdd-c747-4af3-b9e3-c9229a256e21" alt="giphy" width="100%" height="400px" />
-</p>
+<ul>
+  <li>
+    <span>Software Developer at Zeedog</span>
+    <img src="https://github.com/user-attachments/assets/b033fb4f-c7d2-4496-94ac-1b67f4c810c6" width="20" />
+  </li>
+
+  <li>
+    <span>Graduated in Systems Analysis and Development</span>
+    <img src="https://github.com/user-attachments/assets/104e1c07-8cc2-432b-9952-deb0eddcc2d3" width="20" />
+  </li>
+</ul>
 
 ## 🚀 Tech Stack  
 
