@@ -43,7 +43,7 @@
 
 ## 📊 GitHub Stats  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriassuncx&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriassuncx&show_icons=true&layout=compact&theme=react" alt="Top Languages"/>
 </p>
 
 ## 🌍 Connect with Me  
