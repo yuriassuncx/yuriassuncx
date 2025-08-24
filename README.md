@@ -43,7 +43,7 @@
 
 ## 📊 GitHub Stats  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriassuncx&show_icons=true&layout=compact&theme=react" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriassuncx&show_icons=true&layout=compact&theme=holi" alt="Top Languages"/>
 </p>
 
 ## 🌍 Connect with Me  
@@ -58,3 +58,4 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
+
