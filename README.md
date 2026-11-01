@@ -47,7 +47,7 @@ Before that: **[Zee.Dog](https://zeedog.com.br)** across BR, AU, JP, MX, PE and 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong><a href="https://lives2shop.com.br">lives2shop.com.br</a></strong><br/>
+      <strong><a href="https://golivecommerce.co">golivecommerce.co</a></strong><br/>
       SaaS que automatiza vendas em lives do Instagram para o varejo físico. O lojista vai ao vivo, o cliente pede pelo DM — a plataforma cuida do resto.<br/><br/>
       <code>Go</code> &nbsp;<code>Redis Streams</code> &nbsp;<code>PostgreSQL</code> &nbsp;<code>Meta Graph API</code>
     </td>
